@@ -26,7 +26,7 @@ This repository documents my journey of learning Data Structures and Algorithms 
 ## Repository Structure
 
 ```text
-DSA-Journey/
+dsa-journey/
 │
 ├── Arrays/
 ├── BinarySearch/
@@ -64,7 +64,7 @@ This section will be updated regularly as I solve more problems.
 
 | Topic               | Problems Solved |
 | ------------------- | --------------- |
-| Arrays              | 0               |
+| Arrays              | 1               |
 | Binary Search       | 0               |
 | Strings             | 0               |
 | Linked List         | 0               |
@@ -77,7 +77,7 @@ This section will be updated regularly as I solve more problems.
 
 ## Started On
 
-24 June 2026
+25 June 2026
 
 ## Notes
 
