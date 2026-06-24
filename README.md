@@ -1,2 +1,84 @@
-# dsa-journey
-Structured DSA practice repository containing LeetCode solutions, notes, and problem-solving approaches in C++.
+# Data Structures & Algorithms Journey
+
+Welcome to my DSA learning repository.
+
+This repository documents my journey of learning Data Structures and Algorithms using C++. It contains solutions to coding problems, topic-wise notes, and problem-solving approaches collected throughout my preparation.
+
+## Goals
+
+* Build strong problem-solving skills
+* Master core Data Structures and Algorithms
+* Improve coding interview preparation
+* Develop efficient and optimized solutions
+* Maintain consistency and track progress
+
+## Language
+
+* C++
+
+## Practice Platforms
+
+* LeetCode
+* GeeksforGeeks
+* Coding Ninjas
+* Other competitive programming platforms
+
+## Repository Structure
+
+```text
+DSA-Journey/
+│
+├── Arrays/
+├── BinarySearch/
+├── Strings/
+├── LinkedList/
+├── Stack/
+├── Queue/
+├── Trees/
+├── BST/
+├── Heap/
+├── Graph/
+├── DynamicProgramming/
+├── Notes/
+└── README.md
+```
+
+## Topics Covered
+
+* Arrays
+* Binary Search
+* Strings
+* Linked Lists
+* Stack
+* Queue
+* Recursion
+* Trees
+* Binary Search Trees
+* Heap
+* Graph
+* Dynamic Programming
+
+## Progress
+
+This section will be updated regularly as I solve more problems.
+
+| Topic               | Problems Solved |
+| ------------------- | --------------- |
+| Arrays              | 0               |
+| Binary Search       | 0               |
+| Strings             | 0               |
+| Linked List         | 0               |
+| Stack               | 0               |
+| Queue               | 0               |
+| Trees               | 0               |
+| BST                 | 0               |
+| Graph               | 0               |
+| Dynamic Programming | 0               |
+
+## Started On
+
+24 June 2026
+
+## Notes
+
+The repository is maintained as a long-term record of my DSA preparation and continuous learning.
