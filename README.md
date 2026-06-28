@@ -64,6 +64,7 @@ This section will be updated regularly as I solve more problems.
 
 | Topic               | Problems Solved |
 | ------------------- | --------------- |
+| Patterns            | 5               |
 | Arrays              | 2               |
 | Binary Search       | 0               |
 | Strings             | 0               |
@@ -74,6 +75,7 @@ This section will be updated regularly as I solve more problems.
 | BST                 | 0               |
 | Graph               | 0               |
 | Dynamic Programming | 0               |
+
 
 ## Started On
 
