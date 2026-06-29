@@ -66,7 +66,7 @@ This section will be updated regularly as I solve more problems.
 | ------------------- | --------------- |
 | Patterns            | 11               |
 | Arrays              | 2               |
-| Binary Search       | 0               |
+| Binary Search       | 1               |
 | Strings             | 0               |
 | Linked List         | 0               |
 | Stack               | 0               |
