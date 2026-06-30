@@ -64,7 +64,7 @@ This section will be updated regularly as I solve more problems.
 
 | Topic               | Problems Solved |
 | ------------------- | --------------- |
-| Patterns            | 11               |
+| Patterns            | 18               |
 | Arrays              | 2               |
 | Binary Search       | 1               |
 | Strings             | 0               |
