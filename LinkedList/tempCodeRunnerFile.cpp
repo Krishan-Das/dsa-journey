@@ -1,0 +1,2 @@
+
+  temp->next = nullptr;
