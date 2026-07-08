@@ -32,6 +32,15 @@ Node* arrayToLL(int* arr, int n){
   return head;
 }
 
+// --- traverse in Linked List ---
+void printLLElements(Node* head){
+  Node* mover = head;
+  while(mover){
+    cout << mover->data <<" ";
+    mover = mover->next;
+  }
+}
+
 
 
 int main() {
@@ -40,8 +49,10 @@ int main() {
   int n = sizeof(arr)/ sizeof(int);
 
 
-  Node* res = arrayToLL(arr, n);
-  cout << res->data;
+  Node* head = arrayToLL(arr, n);
+  // cout << head->data;
+
+  printLLElements(head);
 
   return 0;
 }
