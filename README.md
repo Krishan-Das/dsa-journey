@@ -68,7 +68,7 @@ This section will be updated regularly as I solve more problems.
 | Arrays              | 2               |
 | Binary Search       | 1               |
 | Strings             | 0               |
-| Linked List         | 0               |
+| Linked List         | 5               |
 | Stack               | 0               |
 | Queue               | 0               |
 | Trees               | 0               |
