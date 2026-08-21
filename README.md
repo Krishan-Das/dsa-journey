@@ -67,7 +67,7 @@ This section will be updated regularly as I solve more problems.
 | Patterns            | 20              |
 | Arrays              | 2               |
 | Binary Search       | 1               |
-| Strings             | 0               |
+| Strings             | 10              |
 | Linked List         | 5               |
 | Stack               | 0               |
 | Queue               | 0               |
